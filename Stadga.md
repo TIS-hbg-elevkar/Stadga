@@ -1,8 +1,6 @@
 # Stadga för TIS Helsingborgs Elevkår
 
-## _Antagen på årsmötet 2020-03-11_
-
----
+__Antagen på årsmötet 2020-03-11__
 
 ## §1 Syfte
 
